@@ -1,0 +1,9 @@
+Title: Readme for run_analysis.R
+
+The run_analysis.R does the following
+1. Download the dataset
+2. Load the activity and feature info
+3. Merge the test and train datasets 
+4. Keep only those columns which reflect a mean or standard deviation
+5. Create a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
+6. Show the end result in TidyDataSet.txt file.
